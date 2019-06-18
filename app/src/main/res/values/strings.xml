@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaiThi</string>
+    <string name="txtView1">Nhập vào n số nguyên</string>
+    <string name="edittext">Nhập n</string>
+    <string name="btnShow">Hiển thị</string>
+    <string name="txtView2">Chương trình tính tổng các số nguyên tố của n</string>
+    <string name="txt3">Tổng = </string>
+    <string name="txtkq">Kết Quả</string>
+    <string name="txtgiam">Sắp xếp giảm dần</string>
+</resources>
